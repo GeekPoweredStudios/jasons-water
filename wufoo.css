@@ -1,0 +1,28 @@
+#saveForm, input[type="submit"]{
+  background: #1B84E6 !important;
+  border: none !important;
+  padding: 10px 20px !important;
+  color: #fff !important;
+}
+
+#form1 header#header {
+    background: #0D5292;
+    text-align: center;
+    padding: 15px 25px;
+}
+
+#form1 header#header h2 {
+    color: #fff;
+}
+
+#form1 header#header div {
+    color: #ccc;
+}
+
+#form1 ul {
+    padding: 15px 25px;
+}
+
+#form1 ul li.buttons {
+    text-align: center;
+}
